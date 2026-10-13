@@ -1,5 +1,5 @@
-# Alpha ex Machina (playtest build)
+# Alpha ex Machina (build archive)
 
-The built web app for *Alpha ex Machina*, a risk management card game. Play it at https://cellis212.github.io/stress-test/
+*Alpha ex Machina*, a risk management card game, is at https://alphaexmachina.app/.
 
-The source lives in a private repository; this repo only holds what GitHub Pages serves.
+This branch keeps the browser-only playtest builds that GitHub Pages served until October 6, 2026. GitHub Pages now serves the `redirect` branch, which sends https://cellis212.github.io/stress-test/ to the new site. The source lives in a private repository.
